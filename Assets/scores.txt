@@ -1,0 +1,6 @@
+paper_sacculos: 32
+supergamer: 6
+Anonymous: 21
+NoName: 20
+Snaaake: 11
+Player: 13
